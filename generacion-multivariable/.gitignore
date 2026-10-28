@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Capturas de la aplicación (van incrustadas en el informe DOCX)
+informe/capturas/
+
+# Herramientas locales
+.memsearch/
+
+# Sistema y editores
+.DS_Store
+.vscode/
+.idea/
+~$*.docx
